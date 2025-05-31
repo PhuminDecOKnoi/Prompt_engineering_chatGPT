@@ -1,5 +1,7 @@
 # 📘 AI Prompt: Persona Pattern (ChatGPT / OpenAI)
 
+> **Description:** This document provides a concise guide to using the Persona Pattern in prompt engineering for ChatGPT and OpenAI models. It outlines the structure, examples, and benefits of adopting role-based prompting to enhance the relevance, tone, and specificity of AI outputs. Ideal for developers, educators, and prompt engineers.
+
 ## 🧩 Concept Overview
 **Persona Pattern** is a prompt engineering technique where you instruct the AI to adopt a specific role (persona) and then perform a defined task. This method enhances the relevance, tone, and style of AI responses by simulating expert behavior or character perspectives.
 
